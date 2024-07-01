@@ -1,4 +1,4 @@
-- 👋 Hi, This is @openkeybsph
+- 👋 Hi, this is @openkeybsph
 - 👀 We make opensource keyboards
 
 <!---
